@@ -4,5 +4,7 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maxgerhardt&langs_count=5&theme=tokyonight&layout=compact)]()
 
 Currently working on:
-- 💻 GigaDevice PlatformIO support
+- 🍓 Raspberry Pi RP2040 & RP2350 PlatformIO [support](https://github.com/maxgerhardt/platform-raspberrypi/)
+- 💻 GigaDevice PlatformIO [support](https://github.com/CommunityGD32Cores/)
+- 🛠️ WCH CH32(v) PlatformIO [support](https://github.com/Community-PIO-CH32V/)
 - lots of other stuff
